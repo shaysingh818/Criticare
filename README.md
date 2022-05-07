@@ -2,7 +2,7 @@
 
 <p float="left">
   <img src="https://github.com/shaysingh818/Criticare/blob/master/screenshots/intakeDetail.png" width="400" />
-  <img src="https://github.com/shalinsingh818/CS460EmergencyHospitalDB/blob/main/screenshots/intakeDetail.png" width="400" /> 
+  <img src="https://github.com/shaysingh818/Criticare/blob/master/screenshots/login.png" width="400" /> 
 </p>
 
 **Project Name:** CritiCare
