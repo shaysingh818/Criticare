@@ -1,12 +1,10 @@
 # CritiCare Emergency Room Application
+Criticare is an information management system for emergency rooms/critical care centers. The application stores information on a database and allows users to view, read, update and enter hospital related information. Some of the main features of criticare are managing patient/employee information, reserve rooms to perform procedures on patient and diagnose and provide the proper medical care in emergencies. 
 
 <p float="left">
   <img src="https://github.com/shaysingh818/Criticare/blob/master/screenshots/intakeDetail.png" width="400" />
   <img src="https://github.com/shaysingh818/Criticare/blob/master/screenshots/login.png" width="400" /> 
 </p>
-
-
-Criticare is an information management system for emergency rooms/critical care centers. The application stores information on a database and allows users to view, read, update and enter hospital related information. Some of the main features of criticare are managing patient/employee information, reserve rooms to perform procedures on patient and diagnose and provide the proper medical care in emergencies. 
 
 
 ## Overview
