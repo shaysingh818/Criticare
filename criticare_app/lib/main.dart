@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'base.dart'; 
-import 'login.dart';
+import 'landing_page/landing.dart'; 
 
 void main() async {
 
@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       title: "Saya Billing",
       home: Scaffold(
 
-        body: LoginPage(),
+        body: LandingPage(),
       ),
     );
   }
